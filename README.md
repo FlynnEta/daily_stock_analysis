@@ -273,7 +273,7 @@ python main.py --webui-only
     <td valign="top"><a href="https://github.com/ZhuLinsen/daily_stock_analysis/issues">提交 Issue</a></td>
   </tr>
 </table>
-
+<!-- keepalive 2026-11-12 -->
 ## 📄 License
 
 [MIT License](LICENSE) © 2026 ZhuLinsen
